@@ -1,6 +1,6 @@
 package qa.guru;
 
-public class primitiveDataTypesExercise {
+public class PrimitiveDataTypesExercise {
 
   public static void primitiveDataTypesSimpleExamples() {
 
